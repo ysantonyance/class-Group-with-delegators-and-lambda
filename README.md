@@ -1,0 +1,1 @@
+# class-Group-with-delegators-and-lambda
